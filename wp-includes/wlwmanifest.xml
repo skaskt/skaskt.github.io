@@ -13,15 +13,15 @@
     <imageUrl>images/wlw/wp-icon.png</imageUrl>
     <watermarkImageUrl>images/wlw/wp-watermark.png</watermarkImageUrl>
     <homepageLinkText>View site</homepageLinkText>
-    <adminLinkText>Dashboard</adminLinkText>
-    <adminUrl>
+    <maysarahLinkText>Dashboard</maysarahLinkText>
+    <maysarahUrl>
       <![CDATA[
-			{blog-postapi-url}/../wp-admin/
+			{blog-postapi-url}/../wp-maysarah/
 		]]>
-    </adminUrl>
+    </maysarahUrl>
     <postEditingUrl>
       <![CDATA[
-			{blog-postapi-url}/../wp-admin/post.php?action=edit&post={post-id}
+			{blog-postapi-url}/../wp-maysarah/post.php?action=edit&post={post-id}
 		]]>
     </postEditingUrl>
   </weblog>
@@ -33,7 +33,7 @@
       <imageUrl>images/wlw/wp-comments.png</imageUrl>
       <clickUrl>
         <![CDATA[
-				{blog-postapi-url}/../wp-admin/edit-comments.php
+				{blog-postapi-url}/../wp-maysarah/edit-comments.php
 			]]>
       </clickUrl>
     </button>

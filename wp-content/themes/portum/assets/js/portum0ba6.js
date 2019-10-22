@@ -44,7 +44,7 @@ var Portum = {
 			]
 		},
 		{
-			'featureType': 'administrative.land_parcel',
+			'featureType': 'maysarahistrative.land_parcel',
 			'elementType': 'labels.text.fill',
 			'stylers': [
 				{
